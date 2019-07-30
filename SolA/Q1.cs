@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace SolA
 {
-    class Program
+    class Q1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("John Smith");
+            Console.WriteLine("e0011223@u.nus.edu");
         }
     }
 }
